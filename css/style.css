@@ -1,0 +1,35 @@
+.hidden {
+    display: none;
+}
+#clock {
+    font-size: 10em;
+    color:silver;
+    text-shadow: 5px 5px 2px black;
+    text-align: center;
+}
+#greeting{
+    font-size: 3em;
+    color:silver;
+    list-style-type: upper-roman;
+    text-align: center;
+}
+li {
+    color: grey;
+    font-size: small;
+    text-align: start;
+    line-height: 1.2;
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 1em;
+}
+#todo-form {
+    text-align: center;
+}
+#weather {
+    position: absolute;
+    text-align: right;
+    top: 0px;
+    right: 0px;
+    color: dimgray;
+}
+
